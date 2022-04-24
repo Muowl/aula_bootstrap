@@ -3,11 +3,11 @@ body{
 }
 
 .navbar{
-    background-color: #239B56;
+    background-color: #1ABC9C;
 }
 .quem-somos{
     background-color: #5499C7;
-    color: azure;
+    color: bisque;
 }
 .parceiros{
 
@@ -17,4 +17,8 @@ body{
 .margin{
     padding-bottom: 50px;
     padding-top: 10px;
+}
+.bg-footer{
+    background-color: black;
+    color: bisque;
 }
